@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: muammerarpa/jenkins-web:latest
+          tags: muammerarpa/jenkins-web
